@@ -18,9 +18,3 @@
 4. 配置环境变量
 5. 点亮右上角的星星 **star** 激活 actions
 6. 然后点击 Actions 标签查看运行的详细状况
-
-![image](https://user-images.githubusercontent.com/70319988/231369203-c812910a-963d-45b8-98a5-95b2623c25d7.png)
-![image](https://user-images.githubusercontent.com/70319988/199923789-639e8295-b03e-4abd-858e-ff427015512a.png)
-![image](https://user-images.githubusercontent.com/70319988/199923884-d81dd457-ecc5-4de9-b480-191d25217c47.png)
-
-直接把 glados_Qinglong.py 文件放到青龙里，环境变量同上
